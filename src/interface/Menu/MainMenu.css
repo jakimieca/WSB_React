@@ -1,0 +1,61 @@
+.mainMenu-app{
+    margin: 20px;
+    margin-right: 0px;
+
+    border-radius: 28px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+}
+
+#light .mainMenu-app{
+    background-color: rgb(255, 252, 252);
+}
+
+#dark .mainMenu-app{
+    background-color: rgba(119, 119, 119, 0.771);
+}
+
+
+
+.img-menu{
+    width: 20px;
+ }
+.menu_card1{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(174, 174, 174, 0.647);
+    border-radius: 25px;
+    margin: 10px;
+    background-color: rgb(250, 245, 246);
+    height: 48%;
+}
+
+#light .menu_card1{
+    background-color: rgb(255, 252, 252);
+}
+
+#dark .menu_card1{
+    background-color: rgba(186, 186, 186, 0.663);
+}
+
+
+.menu_card2{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(174, 174, 174, 0.647);
+    border-radius: 25px;
+    margin: 10px;
+    background-color: rgb(250, 245, 246);
+    height: 48%;
+}
+
+#light .menu_card2{
+    background-color: rgb(255, 252, 252);
+}
+
+#dark .menu_card2{
+    background-color: rgba(186, 186, 186, 0.663);
+}
+

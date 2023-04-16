@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+
+p{
+    background-color: pink;
+}
+
+button{
+    background-color: rgb(167, 167, 244);
+    border: 2px solid  rgb(78, 78, 152);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 8px;
+}
