@@ -7,3 +7,5 @@ Lab3
 ![image](https://user-images.githubusercontent.com/58030208/232311078-4521a47d-bccf-4028-8d29-92d378eb2f4f.png)
 ![image](https://user-images.githubusercontent.com/58030208/232311137-b03da2ee-071d-4d93-9d7a-d57ee85f1180.png)
 3. Routing -> Navbar -> Dashboard
+![image](https://github.com/jakimieca/WSB_React/assets/58030208/d400f55c-1e32-43f6-8bf1-0ea6ba8b0b5a)
+
